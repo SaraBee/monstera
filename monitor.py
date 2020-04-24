@@ -6,7 +6,7 @@ from twitter import Twitter
 from thoughts import Thoughts
 
 moisture_threshold = 415 # arbitrary
-humidity_threshold = 28.0 # arbitrary
+humidity_threshold = 35.0 # arbitrary
 unearthed_reading = 550 # if the sensor is not in the soil
 
 # Run this thing with --notweet to output the tweet to stdout
