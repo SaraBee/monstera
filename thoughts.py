@@ -6,7 +6,7 @@ pages = [
 ]
 
 moisture_openers = [
-    "My soil moisure reading is {} and ",
+    "My soil moisture reading is {} and ",
     "My sensor currently reads {} and ",
     "Moisture levels are at {} and "
 ]
